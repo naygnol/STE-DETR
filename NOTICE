@@ -1,0 +1,18 @@
+STE-DETR
+=======
+
+This repository (https://github.com/naygnol/STE-DETR) contains the official
+experimental code of STE-DETR and is derived from MMDetection
+(https://github.com/open-mmlab/mmdetection).
+
+MMDetection is licensed under the Apache License, Version 2.0.
+Please see LICENSE for the full license text.
+
+Third-party components and their licenses remain owned by their respective
+authors. If you redistribute this repository, retain the Apache-2.0 NOTICE /
+LICENSE of MMDetection and add your own copyright for STE-DETR modifications.
+
+STE-DETR modifications primarily include:
+  - mmdet/models/detectors/base_detr.py
+  - mmdet/models/dense_heads/dino_head.py
+  - mmdet/models/Add/
