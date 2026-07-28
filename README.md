@@ -166,8 +166,8 @@ Apache-2.0 (same as MMDetection). Thanks to MMDetection and DINO.
 ```bibtex
 @article{stedetr,
   title={STE-DETR: A Separate Task Expert Detector for Object Detection},
-  author={Author Names},
+  author={Long, Yan and Xu, Chenjun and Yang, Xiaobao and Sun, Wei and Han, Haozhe and Zhang, Weiwei and Chai, Ruiyang},
   journal={Under Review},
-  year={2024}
+  year={2026}
 }
 ```
